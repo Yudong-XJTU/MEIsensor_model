@@ -1,0 +1,6 @@
+torch>=2.0
+numpy
+pandas
+scikit-learn
+tqdm
+pytest  # optional, only for trainer/test_training_policy.py
