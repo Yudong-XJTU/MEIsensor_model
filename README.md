@@ -73,3 +73,9 @@ publication).
 ## License
 
 This project is released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Yudong Wang, Kai Ye, Xiaofei Yang, and Xi'an Jiaotong University.
+
+The MIT License covers the training code and the trained model weights. The bundled
+training/test data are derived from HGSVC; users should also comply with the HGSVC
+data-use terms.
